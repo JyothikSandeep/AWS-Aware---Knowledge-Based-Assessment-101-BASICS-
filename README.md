@@ -50,3 +50,22 @@ there are different storage classes in s3:
 4. aws Glacier:long term storage.We need to store long term storage data in this glacier.there are multiple OZ.
 
 
+EC2- Elastic Cloud compute
+
+We can create instances like a desktop there are different types of EC2 instances.
+
+We will choose EC2 instances depends upon our usage.
+
+If our usage is for small web applications we can use t2 like that.
+
+If we need more storage we can select different type of EC2 instance. For ML algorithms we can use different instance.
+
+If our CPU uusage increases or decreases it will automatically adopt and charge for the CPU and storage that we are using.
+
+t2-micro is free-tier-eligible
+
+AMI- Amazon machine image
+AMI - It was a template contains the software configuration require to launch the instances
+
+EBS - Elastic block store.
+
