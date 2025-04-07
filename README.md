@@ -39,4 +39,14 @@ Each region has 3 availability zones.
 
 In case of a disaster if one avalability region is crashed remaining 2 aZ will work in low latency
 
+S3 buckets-
+
+Here in this bucket we can store allkind of data and files that are required.
+
+there are different storage classes in s3:
+1. standard s3: Where it will store the data in 3 availability zones, it was highly durable and available. it was used in production.
+2. s3_IA standard: Infrequent access standard where it was also available in 3AZ
+3.s3_one_zone_IA: only avalable in one OZ
+4. aws Glacier:long term storage.We need to store long term storage data in this glacier.there are multiple OZ.
+
 
