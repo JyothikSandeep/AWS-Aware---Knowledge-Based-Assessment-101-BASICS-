@@ -64,8 +64,23 @@ If our CPU uusage increases or decreases it will automatically adopt and charge 
 
 t2-micro is free-tier-eligible
 
+
+
+
 AMI- Amazon machine image
 AMI - It was a template contains the software configuration require to launch the instances
 
 EBS - Elastic block store.
 
+
+AWS database:
+
+RDS - Relational database solution
+
+DynamoDB - non relations
+
+redshift- data ware house
+
+DMS- migrate data
+
+Elasticache- In memory storage
